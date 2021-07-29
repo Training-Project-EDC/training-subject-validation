@@ -1,0 +1,1 @@
+from .test_informed_consent_validator import InformedConsentValidatorTests
